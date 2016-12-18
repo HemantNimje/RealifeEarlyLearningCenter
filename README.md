@@ -1,3 +1,5 @@
+# RealifeEarlyLearningCenter
+
 A single screen android application that displays the information about Realife Early Learning Center at ERIE, PA.
 
 This application is designed for the demonstration of the skills learnt under the coursework "UDACITY- Android Basics: User Interface".
