@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Realife Early Learning Center</string>
+
+    <string name="address">3902 W. 38th St., Erie, PA 16506</string>
+    <string name="contact_number">8148355178</string>
+    <string name="email">pam@rlaerie.com</string>
+    <string name="working_days">Monday - Friday</string>
+    <string name="office_hours">6:30am - 6:00pm</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="hours_of_operation">Hours of Operation</string>
+    <string name="property_name">Realife Early Learning Center</string>
 </resources>
